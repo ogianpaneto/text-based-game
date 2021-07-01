@@ -1,5 +1,5 @@
 import sys, time, random, os, subprocess
-from playsound import playsound
+
 
 choice = ''
 answer_a = ['a', 'A']
